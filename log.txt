@@ -1,0 +1,7 @@
+command log at: 15:34:55. Params: movie-this; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,movie-this,terminator,2; 
+command log at: 15:39:43. Params: concert-this; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,concert-this,shape,of,you; 
+command log at: 15:40:55. Params: concert-this; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,concert-this,marshmallow; 
+command log at: 15:41:17. Params: concert-this; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,concert-this,justin,biber; 
+command log at: 15:42:59. Params: spotify-this-song; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,spotify-this-song,shape,of,you; 
+command log at: 15:47:33. Params: do-what-it-says; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,do-what-it-says; 
+command log at: 15:47:33. Params: do-what-it-says; C:\Program Files\nodejs\node.exe,C:\Users\FirozAhmed\Desktop\bootcamp\utilites\liri\liri-bot\liri.js,do-what-it-says; 
