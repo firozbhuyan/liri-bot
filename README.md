@@ -1,13 +1,11 @@
 # Liri
 
-## About 
+## About Liri bot
 
 Liri is a command-line application that provides information about songs, concerts, and movies based on specific commands and user search input. 
 
 ## Technologies Used 
 
-* Git 
-* GitHub
 * JavaScript
 * Node.js
 * Node packages: 
